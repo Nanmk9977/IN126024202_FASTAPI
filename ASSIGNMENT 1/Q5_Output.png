@@ -1,0 +1,9 @@
+[
+  {
+    "id": 2,
+    "name": "Shoes",
+    "category": "fashion",
+    "price": 2000,
+    "stock": 0
+  }
+]

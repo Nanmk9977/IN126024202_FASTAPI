@@ -1,4 +1,4 @@
-FastAPI Assignment 2
+*FastAPI Assignment 2*
 
 This project is developed as part of the February 2026 Internship FastAPI Task.
 

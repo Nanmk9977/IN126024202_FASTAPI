@@ -1,4 +1,4 @@
-# FastAPI Assignment 3
+## FastAPI Assignment 3
 
 This project is a simple FastAPI application created as part of the February 2026 Internship Task.
 
